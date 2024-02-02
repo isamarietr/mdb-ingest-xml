@@ -1,0 +1,72 @@
+<locationData>
+  <location>
+    <name>Golden Gate Bridge</name>
+    <coordinates>
+      <latitude>37.8199</latitude>
+      <longitude>-122.4783</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Grand Canyon National Park</name>
+    <coordinates>
+      <latitude>36.1069</latitude>
+      <longitude>-112.1121</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Machu Picchu</name>
+    <coordinates>
+      <latitude>-13.1631</latitude>
+      <longitude>-72.5450</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Taj Mahal</name>
+    <coordinates>
+      <latitude>27.1750</latitude>
+      <longitude>78.0422</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Uluru (Ayers Rock)</name>
+    <coordinates>
+      <latitude>-25.3444</latitude>
+      <longitude>131.0369</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Great Barrier Reef</name>
+    <coordinates>
+      <latitude>-18.2861</latitude>
+      <longitude>147.6992</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Yellowstone National Park</name>
+    <coordinates>
+      <latitude>44.4280</latitude>
+      <longitude>-110.5885</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Mount Everest</name>
+    <coordinates>
+      <latitude>27.9881</latitude>
+      <longitude>86.9250</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Galapagos Islands</name>
+    <coordinates>
+      <latitude>-0.3700</latitude>
+      <longitude>-112.1000</longitude>
+    </coordinates>
+  </location>
+  <location>
+    <name>Victoria Falls</name>
+    <coordinates>
+      <latitude>-17.9244</latitude>
+      <longitude>25.8572</longitude>
+    </coordinates>
+  </location>
+</locationData>

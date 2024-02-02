@@ -1,0 +1,162 @@
+<library>
+  <book id="001">
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <publisher name="Little, Brown and Company" city="Boston" />
+    <genre>Coming-of-Age Fiction</genre>
+    <rating>4.0</rating>
+  </book>
+  <book id="002">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <publisher name="Secker &amp; Warburg" city="London" />
+    <genre>Dystopian Fiction</genre>
+    <rating>4.5</rating>
+  </book>
+  <book id="003">
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <publisher name="T. Egerton, Whitehall" city="London" />
+    <genre>Romantic Fiction</genre>
+    <rating>4.8</rating>
+  </book>
+  <book id="004">
+    <title>Harry Potter and the Philosopher's Stone</title>
+    <author>J.K. Rowling</author>
+    <year>1997</year>
+    <publisher name="Bloomsbury Publishing" city="London" />
+    <genre>Young Adult Fiction</genre>
+    <rating>4.9</rating>
+  </book>
+  <book id="005">
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+    <publisher name="George Allen &amp; Unwin" city="London" />
+    <genre>Fantasy Fiction</genre>
+    <rating>4.7</rating>
+  </book>
+  <book id="006">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <year>1960</year>
+    <publisher name="J. B. Lippincott &amp; Co." city="Philadelphia" />
+    <genre>Legal Fiction</genre>
+    <rating>4.6</rating>
+  </book>
+  <book id="007">
+    <title>The Da Vinci Code</title>
+    <author>Dan Brown</author>
+    <year>2003</year>
+    <publisher name="Doubleday" city="New York" />
+    <genre>Mystery Fiction</genre>
+    <rating>4.1</rating>
+  </book>
+  <book id="008">
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1954-1955</year>
+    <publisher name="George Allen &amp; Unwin" city="London" />
+    <genre>Fantasy Fiction</genre>
+    <rating>4.9</rating>
+  </book>
+  <book id="009">
+    <title>Frankenstein</title>
+    <author>Mary Shelley</author>
+    <year>1818</year>
+    <publisher name="Lackington, Hughes, Harding, Mavor &amp; Jones" city="London" />
+    <genre>Gothic Fiction</genre>
+    <rating>4.3</rating>
+  </book>
+  <book id="010">
+    <title>The Adventures of Huckleberry Finn</title>
+    <author>Mark Twain</author>
+    <year>1884</year>
+    <publisher name="Chatto &amp; Windus" city="London" />
+    <genre>Adventure Fiction</genre>
+    <rating>4.2</rating>
+  </book>
+  <book id="011">
+    <title>One Hundred Years of Solitude</title>
+    <author>Gabriel Garcia Marquez</author>
+    <year>1967</year>
+    <publisher name="Harper &amp; Row" city="New York" />
+    <genre>Magical Realism</genre>
+    <rating>4.7</rating>
+  </book>
+  <book id="012">
+    <title>Animal Farm</title>
+    <author>George Orwell</author>
+    <year>1945</year>
+    <publisher name="Secker &amp; Warburg" city="London" />
+    <genre>Satire</genre>
+    <rating>4.4</rating>
+  </book>
+  <book id="013">
+    <title>The Picture of Dorian Gray</title>
+    <author>Oscar Wilde</author>
+    <year>1890</year>
+    <publisher name="Ward, Lock, and Company" city="London" />
+    <genre>Gothic Fiction</genre>
+    <rating>4.1</rating>
+  </book>
+  <book id="014">
+    <title>The Hitchhiker's Guide to the Galaxy</title>
+    <author>Douglas Adams</author>
+    <year>1979</year>
+    <publisher name="Pan Books" city="London" />
+    <genre>Science Fiction Comedy</genre>
+    <rating>4.5</rating>
+  </book>
+  <book id="015">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+    <publisher name="Charles Scribner's Sons" city="New York" />
+    <genre>Tragedy</genre>
+    <rating>4.2</rating>
+  </book>
+  <book id="016">
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <year>1932</year>
+    <publisher name="Chatto &amp; Windus" city="London" />
+    <genre>Dystopian Fiction</genre>
+    <rating>4.0</rating>
+  </book>
+  <book id="017">
+    <title>Lord of the Flies</title>
+    <author>William Golding</author>
+    <year>1954</year>
+    <publisher name="Faber and Faber" city="London" />
+    <genre>Allegorical Fiction</genre>
+    <rating>4.1</rating>
+  </book>
+  <book id="018">
+    <title>The Adventures of Sherlock Holmes</title>
+    <author>Arthur Conan Doyle</author>
+    <year>1892</year>
+    <publisher name="George Newnes Ltd" city="London" />
+    <genre>Detective Fiction</genre>
+    <rating>4.4</rating>
+  </book>
+  <book id="019">
+    <title>Dracula</title>
+    <author>Bram Stoker</author>
+    <year>1897</year>
+    <publisher name="Archibald Constable and Company" city="London" />
+    <genre>Gothic Fiction</genre>
+    <rating>4.2</rating>
+  </book>
+  <book id="020">
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <publisher name="Little, Brown and Company" city="Boston" />
+    <genre>Coming-of-age Fiction</genre>
+    <rating>4.0</rating>
+  </book>
+</library>
